@@ -16,7 +16,7 @@
 #
 
 barclamp:
-  name: rabbitmq-HA 
+  name: Rabbitmq-HA 
   display: RabbitMQ-HA
   description: RabbitMQ is a complete and highly reliable enterprise messaging system based on the emerging AMQP standard
   online_help: 'https://github.com/dellcloudedge/crowbar/wiki'
